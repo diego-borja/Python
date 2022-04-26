@@ -1,0 +1,7 @@
+Este texto es de una lista (for): 
+ 
+Línea 0 del texto
+Línea 1 del texto
+Línea 2 del texto
+Línea 3 del texto
+Línea 4 del texto
